@@ -1,7 +1,3 @@
 ### Hi there 👋
-<a href="https://github.com/nguyenkunquan/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/nguyenkunquan/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/nguyenkunquan/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+![](https://raw.githubusercontent.com/nguyenkunquan/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/nguyenkunquan/github-stats/master/generated/languages.svg#gh-light-mode-only)
