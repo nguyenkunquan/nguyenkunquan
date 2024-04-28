@@ -64,5 +64,9 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
         <br>Docker
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <br>Redis
+    </td>
   </tr>
 </table>
