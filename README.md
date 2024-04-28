@@ -19,7 +19,7 @@
         <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Postman" />
         <br>Spring
     </td>
     <td align="center" width="96">
@@ -27,7 +27,7 @@
         <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="ASP.NET Core" />
         <br>ASP.NET
     </td>
     <td align="center" width="96">
@@ -39,7 +39,7 @@
         <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jQuery" />
       <br>jQuery
     </td>
     <td align="center" width="96">
@@ -47,11 +47,11 @@
         <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
         <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="Postman" />
         <br>MySQL
     </td>
   </tr>
@@ -65,7 +65,7 @@
         <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
         <br>Redis
     </td>
   </tr>
