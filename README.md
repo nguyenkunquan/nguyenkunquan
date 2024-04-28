@@ -51,7 +51,7 @@
         <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
         <br>MySQL
     </td>
   </tr>
